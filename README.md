@@ -7,6 +7,36 @@
   @malvaaez
 
 
+# <Your Name>
+
+## About Me
+
+<Introduce yourself here>
+
+## Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+
+## Projects
+
+- [Project 1](link to project)
+- [Project 2](link to project)
+- [Project 3](link to project)
+
+## Contributions
+
+- [Contribution 1](link to contribution)
+- [Contribution 2](link to contribution)
+- [Contribution 3](link to contribution)
+
+## Contact Me
+
+- [GitHub](link to your GitHub profile)
+- [LinkedIn](link to your LinkedIn profile)
+- [Email](your email address)
+
 
 
 <!--
