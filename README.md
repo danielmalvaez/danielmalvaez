@@ -1,13 +1,20 @@
-### Hi there, I'm Daniel Malváez 👋
+# Hi there, my name is Daniel Malváez 👋
+
+#### My social media:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-malvaez-821637233/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/malvaaez)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/malvaaez/?next=%2F)
+
+## About me
 
 - I'm currently studying the Bachelor in Data Science at IIMAS, UNAM.
 - I'm interested in topics about Machine Learning, Artificial Intelligence applied in Business.
 - I'm looking to collaborate on multidisciplinary projects
 - 📫 How to reach me: 
   @malvaaez
+
+
+## Skills
 
 ### Languages and Tools:
 
@@ -23,36 +30,10 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-
-# <Your Name>
-
-## About Me
-
-<Introduce yourself here>
-
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-
-## Projects
-
-- [Project 1](link to project)
-- [Project 2](link to project)
-- [Project 3](link to project)
-
-## Contributions
-
-- [Contribution 1](link to contribution)
-- [Contribution 2](link to contribution)
-- [Contribution 3](link to contribution)
-
 ## Contact Me
 
-- [GitHub](link to your GitHub profile)
-- [LinkedIn](link to your LinkedIn profile)
-- [Email](your email address)
+- [GitHub](https://github.com/danielmalvaez)
+- [Email](malvaez.axel@aries.iimas.unam.mx)
 
 
 
