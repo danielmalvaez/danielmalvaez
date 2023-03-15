@@ -7,12 +7,9 @@
 
 ## About me
 
-- I'm currently studying the Bachelor in Data Science at IIMAS, UNAM.
-- I'm interested in topics about Machine Learning, Artificial Intelligence applied in Business.
-- I'm looking to collaborate on multidisciplinary projects
-- 📫 How to reach me: 
-  @malvaaez
-
+- 📘 I'm currently studying the Bachelor in Data Science at IIMAS, UNAM.
+- 💻🧠 I'm interested in topics about Machine Learning, Artificial Intelligence applied in Business.
+- 👥 I'm looking to collaborate on multidisciplinary projects
 
 ## Skills
 
