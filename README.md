@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Daniel Malváez 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-malvaez-821637233/)
+
 
 - I'm currently studying the Bachelor in Data Science at IIMAS, UNAM.
 - I'm interested in topics about Machine Learning, Artificial Intelligence applied in Business.
