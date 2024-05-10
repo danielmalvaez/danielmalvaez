@@ -1,6 +1,6 @@
-# Hello, my name is Daniel Malváez
+# Hello! My steemed fella...
 
-This is my project space where most of the incredible magic happens and where the talent and technical skills can be put in practice. Feel free to take a glance to all the projects I have participated in. (Not all, some of them are unfortunately private for very well known privacy concerns).
+Welcome to project space where most of the incredible magic happens and where the talent and technical skills can be put in practice. Feel free to take a glance to all the projects I have participated in. (Not all, some of them are unfortunately private for very well known privacy concerns).
 
 Fun fact : I always believed that I was a city guy living in urban spaces, but after my Californian life plot twist now I consider myself an outdoor-activities lover with hiking and watersports on top of such beatiful list.
 
