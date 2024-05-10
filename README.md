@@ -5,7 +5,7 @@ Welcome to project space where most of the incredible magic happens and where th
 Fun fact : I always believed that I was a city guy living in urban spaces, but after my Californian life plot twist now I consider myself an outdoor-activities lover with hiking and watersports on top of such beatiful list.
 
 #### My social media:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-malvaez-821637233/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-malvaez/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/malvaaez)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/malvaaez/?next=%2F)
 
