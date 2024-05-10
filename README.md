@@ -29,16 +29,28 @@ Feel free to reach me out by contacting in any of the following social media or 
 ### Hard
 - Programming :
   - Python (Machine Learning, Deep Learning, Natural Language Processing, Data Analysis)
-  - SQL
-  - Matlab
-  - R
-  - Java
-  - Julia
-  - C
-  - GitHub
-- Terminal : Linux & MacOS Shell Dominance
-- Software : Microsoft (Word, Excel, PowerPoint, Power BI), Tableau, Qlik, RapidMiner, Docker, Mathematica.
-- Data Bases : PostgreSQL, MongoDB, Cassandra, Neo4j
+  - SQL (Data Retrieving and Querying)
+  - Matlab (Image Modeling)
+  - R (Statistical Anaylisis)
+  - Java (Software Engineer Basics)
+  - Julia (Optimization for Montecarlo Models)
+  - C (Itro to Parallel Programming)
+  - GitHub (as you could see)
+- Terminal (Bash & ZSH):
+  - Linux
+  - MacOS
+- Software :
+  - Microsoft (Word, Excel, PowerPoint, Power BI)
+  - Tableau
+  - Qlik
+  - RapidMiner
+  - Docker
+  - Mathematica.
+- Data Bases :
+  - PostgreSQL
+  - MongoDB
+  - Cassandra
+  - Neo4j
 
 ### Soft
 - English (Proficiency)
