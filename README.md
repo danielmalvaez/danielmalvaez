@@ -6,7 +6,8 @@ Fun fact : I always believed that I was a city guy living in urban spaces, but a
 
 #### Current Mood : 
 
-Exchange student at UCLA
+Exchange student at UCLA.
+Data Science Senior Student at IIMAS, UNAM.
 
 #### My social media:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-malvaez/)
