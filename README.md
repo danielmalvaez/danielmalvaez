@@ -4,6 +4,10 @@ Welcome to project space where most of the incredible magic happens and where th
 
 Fun fact : I always believed that I was a city guy living in urban spaces, but after my Californian life plot twist now I consider myself an outdoor-activities lover with hiking and watersports on top of such beatiful list.
 
+#### Current Mood : 
+
+Jan 2024 - June 2024 -> Exchange student at UCLA
+
 #### My social media:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-malvaez/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/malvaaez)
