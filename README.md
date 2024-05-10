@@ -27,7 +27,15 @@ Feel free to reach me out by contacting in any of the following social media or 
 ## Skills
 
 ### Hard
-- Programming : Python (Machine Learning, Deep Learning, Natural Language Processing, Data Analysis), SQL, Matlab, R, Java, Julia, C, GitHub
+- Programming :
+  - Python (Machine Learning, Deep Learning, Natural Language Processing, Data Analysis)
+  - SQL
+  - Matlab
+  - R
+  - Java
+  - Julia
+  - C
+  - GitHub
 - Terminal : Linux & MacOS Shell Dominance
 - Software : Microsoft (Word, Excel, PowerPoint, Power BI), Tableau, Qlik, RapidMiner, Docker, Mathematica.
 - Data Bases : PostgreSQL, MongoDB, Cassandra, Neo4j
