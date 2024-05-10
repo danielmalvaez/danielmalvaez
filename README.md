@@ -1,13 +1,8 @@
 # Hello! My steemed fella...
 
-Welcome to project space where most of the incredible magic happens and where the talent and technical skills can be put in practice. Feel free to take a glance to all the projects I have participated in. (Not all, some of them are unfortunately private for very well known privacy concerns).
+Welcome to project space where most of the incredible magic happens and where the talent and technical skills can be put in practice. Feel free to take a glance to all the projects I have participated in. (My bad, not all as some of them are unfortunately private for very well-known privacy concerns).
 
 Fun fact : I always believed that I was a city guy living in urban spaces, but after my Californian life plot twist now I consider myself an outdoor-activities lover with hiking and watersports on top of such beatiful list.
-
-#### Current Mood : 
-
-Exchange student at UCLA.
-Data Science Senior Student at IIMAS, UNAM.
 
 #### My social media:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-malvaez/)
@@ -16,22 +11,32 @@ Data Science Senior Student at IIMAS, UNAM.
 
 ## About me
 
-- 📘 I'm currently studying the Bachelor in Data Science at IIMAS, UNAM.
-- 💻🧠 I'm interested in topics about Machine Learning, Artificial Intelligence applied in Business.
-- 👥 I'm looking to collaborate on multidisciplinary projects
+### Current Mood
+- 📘 Data Science Senior Student at IIMAS, UNAM
+- 📘 Exchange Student at University of California, Los Angeles (UCLA).
+
+### Interests
+- 🧠 I like Artificial Intelligence applications with a focus in Business Data-Driven Decisions.
+- 👥 Focusing in enhacing my insightful communication skills. As I truly believe that communication bridges the gap between the stakeholders and the data scientist team.
+- 💡 Business Analytics in order to provide meaningful insights.
+- 🎤 Story Telling
 
 ## Skills
 
-### Languages and Tools:
-* Python
-* SQL
-* R
-* Matlab
-* Java
-* C
-* Julia
+### Hard
+- Programming : Python (Machine Learning, Deep Learning, Natural Language Processing, Data Analysis), SQL, Matlab, R, Java, Julia, C, GitHub
+- Terminal : Linux & MacOS Shell Dominance
+- Software : Microsoft (Word, Excel, PowerPoint, Power BI), Tableau, Qlik, RapidMiner, Docker, Mathematica.
+- Data Bases : PostgreSQL, MongoDB, Cassandra, Neo4j
 
-## Contact Me
-
-- [GitHub](https://github.com/danielmalvaez)
-- [Email](malvaez.axel@aries.iimas.unam.mx)
+### Soft
+- English (Proficiency)
+- Leadership
+- Critical Thinking
+- Problem-Solving
+- Fast Learner Proactive
+- Teamwork
+- Listener
+- Communication (verbal & written)
+- Collaborative
+- Easily Adaptable
