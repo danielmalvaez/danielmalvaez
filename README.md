@@ -35,9 +35,8 @@ I have quite some time of experience programming in different languages, bulding
   - SQL (Data Retrieving and Querying)
   - Matlab (Image Modeling)
   - R (Statistical Anaylisis)
-  - Java (Software Engineer Basics)
+  - Java (Software Engineering Basics)
   - Julia (Optimization for Montecarlo Models)
-  - C (Itro to Parallel Programming)
   
 - Software :
   - Microsoft (Word, Excel, PowerPoint, Power BI)
