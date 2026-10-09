@@ -1,6 +1,6 @@
 # Hi !
 
-Welcome to my project space where most of the incredible magic happens and where the talent and technical skills can be put in practice. Feel free to take a glance to most of the public projects I have participated in and a couple of side personal projects. Enjoy and feel free to reach out if you ever have any questions or if you want to have a fun conversation around AI.
+Welcome to my project space, here I upload some of the most interesting projects I've been working on. However not all my projects or the projects I collaborate in will be listed in here. Feel free to reach out in case you have any questions/comments or might want to collaborate into a fun project.
 
 #### Contact Info...
 
@@ -9,45 +9,24 @@ Feel free to reach me out by connecting through my LinkedIn :
 
 ## About me
 ### Current Mood
-- 👨🏻‍💻 Analyst @ BlackRock
-- Building an AI Startup
-- Medium Articles Writer
-- Business, Social, Environmental Analysis
+- Master Student within Computer Science & Engineering @ IIMAS, UNAM.
+- Current research & interests lie in the following topics:
+  - Computational Neuroscience
+  - Artificial Intelligence
+  - Sports Science
+  - Agriculture
+  - Healthcare 
+- Currently focusing on building a research career.
 
 ### School
+- 📘 Master in Computer Science & Engineering at IIMAS, UNAM
 - 📘 Bachelor in Data Science at IIMAS, UNAM
   - 📘 Minor in Computer Science at UNAM
 - 📘 Exchange Student at University of California, Los Angeles (UCLA).
 
 ### Interests
-- 💡 Passion for technological tools, AI applications an Business data driven environments.
-- 🎤 Story telling drive, since I truly believe communication bridges the gap between the stakeholders and the data science teams.
+- 💡 Passion for AI applications an technological data-driven tools.
+- 🚴🏽‍♂️ 🏊🏼‍♂️ 🏃🏻‍♂️ Endurance Sports
 - 🥾 Hiking
-- 🥊 Boxing
 - 🎾 Tennis & Padel
 - ☕️ Coffee addiction
-
-## Skills
-I have quite some time of experience programming in different languages, bulding different systems and modelling different objects. Here I list some of the top programming languages I have used and some examples of the real applications I have experience working with : 
-
-- Programming :
-  - Python (Machine Learning, Deep Learning, Natural Language Processing, Data Analysis)
-  - SQL (Data Retrieving and Querying)
-  - Matlab (Image Modeling)
-  - R (Statistical Anaylisis)
-  - Java (Software Engineering Basics)
-  - Julia (Optimization for Montecarlo Models)
-  
-- Software :
-  - Microsoft (Word, Excel, PowerPoint, Power BI)
-  - Tableau
-  - Qlik
-  - RapidMiner
-  - Docker
-  - Mathematica.
-
-- Data Bases :
-  - PostgreSQL
-  - MongoDB
-  - Cassandra
-  - Neo4j
